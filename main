@@ -16,7 +16,7 @@ console.log("wrong")
 }
 console.log("current score:" ,score);
 console.log('---------')
-}   
+}
 
 var question = [
 questionOne ={
@@ -26,22 +26,7 @@ answer: "Ironman",
 questionTwo ={
 question: "Which is my favorite sad song?",
 answer: "Kabira",
-},
-questionThree = {
-    question : " What is my favorite food ?",
-    answer : "Pavbhaji",
-},
-questionFour = {
-    question: "Which is my dream travel location ?",
-    answer : 'Iceland',
-},
-questionFive {
-    question: "Which is my favorite book ?",
-    answer: "Start With Why ",
-} 
-
 }
-
 ]
 
 for (i=0 ; i<question.length;i++){
